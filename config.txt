@@ -1,7 +1,7 @@
-token = ""
+token = "NzE2NzM3MzkzNzAwNjM0NzE3.XtQHtg.7lsEpZtetT8JDFC2gepb7KZmzR8"
 
 
-owner = ""
+owner = "507149300673937419"
 
 
 prefix = ""

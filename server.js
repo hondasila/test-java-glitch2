@@ -9,4 +9,4 @@ setInterval(() => {
 http.get(`https://.glitch.me`); 
 }, 280000); 
 var shell = require('shelljs'); 
-shell.exec('java -jar JMusicBot-0.2.9-Windows.jar')
+shell.exec('java -jar JMusicBot-0.3.2.jar.jar')
